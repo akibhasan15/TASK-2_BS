@@ -6,7 +6,7 @@ them as  per requirments.
 
 $ sudo vagrant up
 
-2. Apply the kubernetes yaml files for dashboard
+2. Apply the kubernetes yaml files for dashboard on master node.
 
 $ kubectl apply -f .
 
